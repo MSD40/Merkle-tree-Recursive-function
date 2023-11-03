@@ -31,10 +31,3 @@ def merkle(data, initial=True):
     return [data] + merkle(new_data, False)
 
     # merkel_root = merkle(data)[-1]
-# NoTX=int(input("pls enter the number of transactions : "))
-# # NoTX : number of transactions
-# data=[]
-# for i in range(0,NoTX) :
-    
-#     data.append(i)
-# print(merkle(data))
