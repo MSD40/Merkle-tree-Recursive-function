@@ -1,2 +1,2 @@
 # Merkle-tree-Recursive-function
- a Recursive simple function for the Merkle tree
+ a simple recursive function for the Merkle tree
